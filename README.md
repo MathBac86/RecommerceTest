@@ -8,10 +8,12 @@ Vous trouvez :
 - Deux entités : Commande et Produits
 - Deux Controllers : CommandeController et ProduitsController
 - Deux Repository : CommandeRepository et ProduitsRepository
-- Il n'y a que trois requêtes :
+- Il n'y a que trois routes :
     - La liste des produits référencés
     - La liste des commandes
     - La liste des produits d'une commande
+
+Les route sont été testées via Postman <br>
 
 Pas de création de commande <br>
 Pas de test (pas eu le temps car problème avec mon ordinateur et git)
