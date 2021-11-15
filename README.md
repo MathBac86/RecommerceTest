@@ -13,7 +13,7 @@ Vous trouvez :
     - La liste des commandes
     - La liste des produits d'une commande
 
-Les route sont été testées via Postman <br>
+Les routes ont été testées via Postman <br>
 
 Pas de création de commande <br>
 Pas de test (pas eu le temps car problème avec mon ordinateur et git)
